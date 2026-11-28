@@ -13,8 +13,8 @@ if (mount) {
         greeting="WE ARE"
         name="KYRO"
         brand="KYRO®"
-        background="#090a0a"
-        foreground="#e9e7e1"
+        background="#f3f0e8"
+        foreground="#171a2b"
         autoPlay={false}
       />
     </React.StrictMode>
